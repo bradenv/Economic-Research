@@ -1,0 +1,13 @@
+# Secrets and local environment
+.env
+.venv/
+.DS_Store
+__pycache__/
+
+# Generated data and charts (rerun the scripts to rebuild)
+data/
+charts/
+
+# Personal planning documents
+USChina/
+*.pdf
